@@ -1,0 +1,29 @@
+variable : se nombra de tal manera que mas adelante se pueda hacer referencia
+de ella y poder asignarle algun valor, el nombre va siempre entre parentesis
+
+Strings : son bloques de textos que se definen entre comillas, y nos 
+ayuda a imponer restricciones en los datos. como descripciones ya asignados
+
+Funciones : las funciones son conjuntos de variables y asi poder calcularlas
+cambiarlas y poder hacer algo con ellas. 
+se inicia con la palabra function, despues se le da nombre a la funcion
+el cual describa que es lo que esta hace, se abren y cierran parentesis 
+al igual que los corchetes dentro del cual va el codigo a ejecutar.
+console.log
+
+Se puede hacer bajo ARGUMENTOS, que seria agregarle una variables dentro de 
+los parentesis cuando declaramos la funcion y asi podremos uar esta variable
+dentro de nuestra funcion. funciona para multiples variables separandolas
+con comas y numeros
+
+tambien se puede hacer con declaracion RETURN, cuando se quiera devolver algo
+de la funcion se hace la declaracion return, como unica forma en que los datos
+escapan de la funcion, y se devuelve lo especificado. 
+return
+
+Declaracion if : es una condicion que puede ser utilizada en cualquier
+expresion, se tiende a ejecutar si la condicion es true
+
+valores boleanos : se alimenta por medio de codigo binario, y en las computadoras
+funcion activar o desactivar, 0 o 1, verdadero o falso.
+
